@@ -14,8 +14,9 @@ console.log(person["age"]);
 person["weight"]=80;
 console.log(person["weight"]);
 // update a properties in the object
-person["height"]=6;
-console.log(person["height"]);
-// delete an object
-delete person ["age"];
+person["age"]=70;
 console.log(person["age"]);
+// delete an object
+delete person ["height"];
+console.log(person["height"]);
+console.log(person.firstname + " is " + person.age +" years old.");
