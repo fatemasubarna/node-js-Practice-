@@ -1,4 +1,4 @@
-//Create a Node.js object that represents a student with properties like name, age, and grades. Write a method to calculate the average grade.
+//16. Create a Node.js object that represents a student with properties like name, age, and grades. Write a method to calculate the average grade.
 
 let student={
     name:"john",

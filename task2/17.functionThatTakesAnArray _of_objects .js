@@ -1,4 +1,4 @@
-//Write a function that takes an array of objects (each representing a product) and returns the most expensive product.
+//17.Write a function that takes an array of objects (each representing a product) and returns the most expensive product.
 
 function getMostExpensiveProduct(product) {
     if (!Array.isArray (product) || product.length === 0) return null;

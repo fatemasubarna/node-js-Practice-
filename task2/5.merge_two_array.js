@@ -1,4 +1,4 @@
-// Implement a function that merges two arrays without using built-in concatenation methods.
+// 5. Implement a function that merges two arrays without using built-in concatenation methods.
 // concat method
 array1=[1,2,3,4];
 array2=[2,4,3,5,2,3,6,7];
