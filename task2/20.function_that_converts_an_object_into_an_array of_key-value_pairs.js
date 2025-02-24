@@ -1,4 +1,4 @@
-//Write a function that converts an object into an array of key-value pairs.
+//20.Write a function that converts an object into an array of key-value pairs.
 function objectToArray(obj) {
     if (typeof obj !== "object" || obj === null) {
       throw new Error("Invalid input: Expected an object.");
